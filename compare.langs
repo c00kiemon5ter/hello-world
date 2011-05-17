@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+cwd="$(dirname "$0")"
+repolangs="$cwd/repo.langs"
+wikilangs="$cwd/wiki.langs"
+donelangs="$cwd/done.langs"
+todolangs="$cwd/todo.langs"
+
+while read wikilang; do
+    if grep -i "$wikilang" "$repolangs"; then
+        printf "%s\n" "$wikilang" >> "$donelangs"
+    else
+        printf "%s\n" "$wikilang" >> "$todolangs"
+    fi
+done < "$wikilangs"
