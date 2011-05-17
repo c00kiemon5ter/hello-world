@@ -1,0 +1,653 @@
+A# .NET
+A# (Axiom)
+A-0 System
+A+
+A++
+ABAP
+ABC
+ABC ALGOL
+Abel
+ABLE
+ABSET
+ABSYS
+Abundance
+ACC
+Accent
+Ace DASL
+ACT-III
+Action!
+ActionScript
+Ada
+Adenine
+Agda
+Agena
+Agora
+AIMMS
+Alef
+ALF
+ALGOL 58
+ALGOL 60
+ALGOL 68
+Alice
+Alma-0
+Amiga E
+AMOS
+AMPL
+AMPLE
+APL
+AppleScript
+Arc
+Arduino
+ARexx
+Argus
+ASP
+AspectJ
+Assembly language
+ATS
+Ateji PX
+AutoHotkey
+AutoIt
+Averest
+AWK
+Axum
+B
+Babbage
+Bash
+BASIC
+bc
+BBC Basic
+BCPL
+BeanShell
+Batch (Windows/Dos)
+Bertrand
+BETA
+Bigwig
+Bistro
+BitC
+BLISS
+Blitz Basic
+Blue
+Bon
+Boo
+Boomerang
+ksh
+BREW
+BPEL
+BUGSYS
+BuildProfessional
+C
+C--
+C++
+C#
+C/AL
+Caché ObjectScript
+Caml
+Cayenne
+Cecil
+Cel
+Cesil
+CFML
+Cg
+Chapel
+CHAIN
+Charity
+CHILL
+CHIP-8
+chomski
+Oxygene (formerly Chrome)
+ChucK
+CICS
+Cilk
+Honeywell
+IBM
+Claire
+Clarion
+Clean
+Clipper
+CLIST
+Clojure
+CLU
+CMS-2
+COBOL
+CobolScript
+Cobra
+CODE
+Cola
+ColdC
+ColdFusion
+Cool
+COMAL
+Combined Programming Language
+Common Intermediate Language
+Common Lisp
+COMPASS
+Component Pascal
+COMIT
+Constraint Handling Rules
+Converge
+Coral 66
+Corn
+CorVision
+Coq
+COWSEL
+CPL
+csh
+CSP
+CSKA
+Csound
+Curl
+Curry
+Cyclone
+Cython
+D
+DASL
+DASL
+DataFlex
+Datalog
+DATATRIEVE
+dBase
+dc
+DCL
+Deesel
+Delphi
+Dialect
+DinkC
+Dialog Manager
+DIBOL
+DL/I
+Draco
+Dylan
+DYNAMO
+E
+Ease
+EASY
+Easy PL/I
+EASYTRIEVE PLUS
+ECMAScript
+Edinburgh IMP
+EGL
+Eiffel
+ELAN
+Emacs Lisp
+Epigram
+Erlang
+Escapade
+Escher
+ESPOL
+Esterel
+Etoys
+Euclid
+Euler
+Euphoria
+CMS EXEC
+EXEC 2
+F
+F#
+Factor
+Falcon
+Fancy
+Fantom
+Felix
+Ferite
+FFP
+Fjölnir
+FL
+Flavors
+Flex
+FLOW-MATIC
+Fly
+FOCAL
+FOCUS
+FOIL
+FORMAC
+@Formula
+Forth
+Fortran
+Fortress
+FoxBase
+FoxPro
+FP
+FPr
+Franz Lisp
+Frink
+F-Script
+Fuxi
+Gambas
+GameMonkey Script
+Game Maker Language
+GAMS
+GAP
+G-code
+Genie
+GDL
+Gibiane
+GJ
+GLBasic
+GLSL
+GNU E
+GM
+Go
+Go!
+GOAL
+Gödel
+Godiva
+GOM (Good Old Mad)
+Goo
+GOTRAN
+GPSS
+GraphTalk
+GRASS
+Green
+Groovy
+HAL/S
+Hamilton C shell
+Harbour
+IBM HAScript
+Haskell
+Hemant
+HaXe
+High Level Assembly
+HLSL
+Hop
+Hope
+Hugo
+Hume
+HyperTalk
+HTML
+IBM Basic assembly language
+IBM Informix-4GL
+IBM RPG
+ICI
+Icon
+Id
+IDL
+IMP
+Inform
+Io
+Ioke
+IPL
+IPTSCRAE
+IronPython
+IronRuby
+ISPF
+ISWIM
+J
+J#
+J++
+JADE
+Jako
+JAL
+Janus
+JASS
+Java
+JavaScript
+JCL
+JEAN
+Join Java
+JOSS
+Joule
+JOVIAL
+Joy
+JScript
+Jython
+JavaFX Script
+K
+Kaleidoscope
+Karel
+Karel++
+Kaya
+KEE
+KIF
+Kite
+KRC
+KRL
+KRYPTON
+ksh
+KUKA
+L
+L# .NET
+LabVIEW
+Ladder
+Lagoona
+LANSA
+Lasso
+LaTeX
+Lava
+LC-3
+Leadwerks Script
+Leda
+Legoscript
+LilyPond
+Limbo
+Limnor
+LINC
+Lingo
+Linoleum
+LIS
+LISA
+Lisaac
+Lisp
+Lite-c
+Lithe
+Little b
+Logix
+Logo
+Logtalk
+LPC
+LSE
+LSL
+Lua
+Lucid
+Lustre
+LYaPAS
+Lynx
+M
+M2001
+M4
+Machine code
+MAD
+MAD/I
+Magik
+Magma
+MapBasic
+Maple
+Unisys/Sperry
+Sterling/Informatics
+Mary
+MASM Microsoft Assembly x86
+Mathematica
+MATLAB
+Macsyma
+MaxScript
+Maya (MEL)
+MDL
+Mercury
+Mesa
+Metacard
+Metafont
+MetaL
+Microcode
+MicroScript
+MIIS
+MillScript
+MIMIC
+Mirah
+Miranda
+MIVA Script
+ML
+Moby
+Model 204
+Modula
+Modula-2
+Modula-3
+Mohol
+MOO
+Mortran
+Mouse
+MPD
+MSL
+MSX BASIC
+MUMPS
+MXML
+Napier88
+NATURAL
+NEAT chipset
+Neko
+Nemerle
+NESL
+Net.Data
+NetLogo
+NewLISP
+NEWP
+Newspeak
+NewtonScript
+NGL
+Nial
+Nice
+Nickle
+NPL
+Not eXactly C
+Not Quite C
+Nu
+NSIS
+o:XML
+Oak
+Oberon
+Object Lisp
+ObjectLOGO
+Object REXX
+Object Pascal
+Objective-C
+Objective Caml
+Objective-J
+Obliq
+Obol
+occam
+occam-π
+Octave
+OmniMark
+Onyx
+Opal
+OpenEdge ABL
+OPL
+OPS5
+OptimJ
+Oracle
+Orc
+ORCA/Modula-2
+Orwell
+Oxygene
+Oz
+PARI/GP
+Pascal
+Pawn
+PCASTL
+PCF
+PEARL
+PeopleCode
+Perl
+PDL
+PHP
+Phrogram
+Pico
+Pict
+Pike
+PIKT
+PILOT
+Pizza
+PL-11
+PL/0
+PL/B
+PL/C
+PL/I
+PL/M
+PL/P
+PL/SQL
+PL360
+PLANC
+Plankalkül
+PLEX
+PLEXIL
+Plus
+POP-11
+Poplog
+PostScript
+PortablE
+Powerhouse
+PowerBuilder
+PPL
+Processing
+Prograph
+PROIV
+Prolog
+Visual Prolog
+Promela
+PROTEL
+ProvideX
+Pro*C
+Pure
+Python
+Q (equational programming language)
+Q (programming language from Kx Systems)
+Qi
+QtScript
+QBASIC
+QuakeC
+QPL
+R
+R++
+Racket
+RAPID
+Rapira
+Ratfiv
+Ratfor
+RBScript
+rc
+REBOL
+Redcode
+REFAL
+Reia
+Revolution
+rex
+REXX
+Rlab
+ROOP
+RPG
+RPL
+RSL
+RTL/2
+Ruby
+Rust
+S
+S2
+S3
+S-Lang
+S-PLUS
+SA-C
+SabreTalk
+SAIL
+SALSA
+SAM76
+SAS
+SASL
+Sather
+Sawzall
+SBL
+Scala
+Scheme
+Scilab
+Scratch
+Script.NET
+Sed
+Self
+SenseTalk
+SETL
+Shift Script
+SiMPLE
+SIMPOL
+SIMSCRIPT
+Simula
+Simulink
+SISAL
+Slate
+SLIP
+SMALL
+Small Basic
+Smalltalk
+SML
+SPITBOL
+Snowball
+SOAP
+SOL
+Span
+SPARK
+SPIN
+SP/k
+SPS
+Squeak
+Squirrel
+SR
+S/SL
+Strand
+STATA
+Stateflow
+Subtext
+Suneido
+SuperCollider
+SuperTalk
+SYMPL
+SyncCharts
+SystemVerilog
+T
+TACL
+TACPOL
+TADS
+TAL
+Tcl
+Tea
+TECO
+TELCOMP
+TeX
+TEX
+TIE
+thinBasic
+Timber
+Tom
+TOM
+Topspeed
+TPU
+Trac
+T-SQL
+TTCN
+Turing
+TUTOR
+TXL
+Ubercode
+Unicon
+Uniface
+UNITY
+Unix shell
+UnrealScript
+Vala
+VBA
+VBScript
+Verilog
+VHDL
+Visual Basic
+Visual Basic .NET
+Visual C++
+Visual C++ .Net
+Visual C#
+Visual DataFlex
+Visual DialogScript
+Visual FoxPro
+Visual J++
+Visual Objects
+Vvvv
+WATFIV, WATFOR
+WebQL
+Winbatch
+XAML
+XML
+X++
+X10
+XBL
+XMOS architecture
+xHarbour
+XL
+XOTcl
+XPL
+XPL0
+XQuery
+XSB
+XPath
+Yabasic
+Yorick
+YQL
+Yoix
+Z
+Z notation
+Zeno
+ZOPL
+ZPL
+ZZT-oop
