@@ -1,0 +1,12 @@
+-- Hello World in Gofer
+-- Simple version
+
+helloWorld:: String
+helloWorld = "Hello World!\n"
+
+
+-- Hello World in Gofer
+-- Dialog version
+
+helloWorld :: Dialogue
+helloWorld resps = [AppendChan stdout "Hello world!"]
